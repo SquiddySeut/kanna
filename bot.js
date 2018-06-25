@@ -9,6 +9,9 @@ client.on('message', message => {
     if (message.content === 'ping') {
     	message.reply('pong');
   	}
+    if (message.content.startsWith("Kanna")) {
+    message.channel.send("Please don't be too rough with me: it's my first time as well...");
+    }
 });
 
 // THIS  MUST  BE  THIS  WAY
