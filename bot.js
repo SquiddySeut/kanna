@@ -17,7 +17,7 @@ client.on('message', message => {
     message.channel.send("Or your bath?");
     message.channel.send("Or...");
     message.channel.send("Me?");
-        if 
+      
     }
 });
 
