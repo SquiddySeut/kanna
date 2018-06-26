@@ -27,6 +27,7 @@ client.on('message', message => {
         message.channel.send("http://ae01.alicdn.com/kf/HTB14_hCiMnH8KJjSspcq6z3QFXaL/Miss-Kobayashi-s-Dragon-Mai-Kanna-Kamui-Hug-Body-Pillow-Cover-Tohru-Kobayashi-Dakimakura-Case.jpg");
   	    message.channel.send("https://imgs.inkfrog.com/pix/am13690/17012_____________________________-________2_(2).jpg?i=0.7341140517185158");
         message.channel.send("https://dynasty-scans.com/system/releases/000/017/450/04.jpg");
+        message.channel.send("https://hentaiporns.net/wp-content/uploads/2017/04/CIRCLE-ENERGY-Imaki-Hitotose-Kobayashi-san-chi-no-Seido-Dragon-Kobayashi-san-chi-no-Maid-Dragon-Dig_27.jpg");
     }
 });
 
