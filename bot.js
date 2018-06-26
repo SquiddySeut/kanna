@@ -24,7 +24,7 @@ client.on('message', message => {
     	message.reply('hey um...');
         message.reply('if you really want to see a naked body,');
         message.channel.send("You can look at my body..."); 
-        message.reply("http://ae01.alicdn.com/kf/HTB14_hCiMnH8KJjSspcq6z3QFXaL/Miss-Kobayashi-s-Dragon-Mai-Kanna-Kamui-Hug-Body-Pillow-Cover-Tohru-Kobayashi-Dakimakura-Case.jpg");
+        message.channel.send("http://ae01.alicdn.com/kf/HTB14_hCiMnH8KJjSspcq6z3QFXaL/Miss-Kobayashi-s-Dragon-Mai-Kanna-Kamui-Hug-Body-Pillow-Cover-Tohru-Kobayashi-Dakimakura-Case.jpg");
   	}
 });
 
