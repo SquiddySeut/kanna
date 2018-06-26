@@ -16,9 +16,13 @@ client.on('message', message => {
     message.channel.send("Would you like your dinner?");
     message.channel.send("Or your bath?");
     message.channel.send("Or...");
-    message.channel.send("Me?");
-      
+    message.channel.send("Me?"); 
     }
+    if (message.content === '~>rule34') {
+    	message.reply('hey um...');
+        message.reply('if you really want to see a naked body,');
+        message.channel.send("You can look at my body..."); 
+  	}
 });
 
 // THIS  MUST  BE  THIS  WAY
