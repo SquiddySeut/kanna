@@ -12,7 +12,7 @@ client.on('message', message => {
     if (message.content.startsWith("Kanna")) {
     message.channel.send("Hugh, please don't be too rough with me: it's my first time as well...");
     }
-    if (message.content.startsWith("Hey")) {
+    if (message.content.startsWith("hey")) {
     message.channel.send("Would you like your dinner?");
     message.channel.send("Or your bath?");
     message.channel.send("Or...");
